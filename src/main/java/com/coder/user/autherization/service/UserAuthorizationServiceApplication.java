@@ -1,4 +1,4 @@
-package com.coder.user.autherization.service.user.authorization.service;
+package com.coder.user.autherization.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
